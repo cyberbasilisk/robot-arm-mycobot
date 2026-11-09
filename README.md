@@ -20,5 +20,5 @@ A simulation environment for the Elephant Robotics myCobot 280 6-DOF desktop arm
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
 ### Acknowledgements
-* [Elephant Robotics](https://www.elephantrobotics.com/en/) for the myCobot 280 design and its published robot description
-* Robotics tutorials by [Automatic Addison](https://www.youtube.com/@automaticaddison) 
+* [Elephant Robotics](https://www.elephantrobotics.com/en/) for the myCobot 280 design and its published robot description.
+* Robotics tutorials by [Automatic Addison](https://www.youtube.com/@automaticaddison).
