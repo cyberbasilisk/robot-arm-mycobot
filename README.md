@@ -11,7 +11,8 @@ A simulation environment for the Elephant Robotics myCobot 280 6-DOF desktop arm
 5. MoveIt-2 configuration for planning and execution in simulation.
 6. Automated tests that launch the simulation and check its behavior.
 
-### Usage
+<!-- ### Usage -->
+
 
 ### Tech Stack 
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
